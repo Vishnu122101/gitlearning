@@ -1,11 +1,2 @@
-import React from 'react'
-
-const index = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
-
-export default index
+var a=10
+console.log(20);
